@@ -1,0 +1,136 @@
+.navigation-wrapper {
+  display: contents;
+}
+ 
+.navigation-container1 {
+  display: contents;
+}
+ 
+.navigation-image {
+  width: 127px;
+  height: 79px;
+  object-fit: cover;
+}
+ 
+.navigation-thq-section-title-elm1 {
+  display: block;
+  justify-items: center;
+}
+ 
+.navigation-container2 {
+  display: none;
+}
+ 
+.navigation-container3 {
+  display: contents;
+}
+ 
+.navigation-container4 {
+  display: none;
+}
+ 
+.navigation-container5 {
+  display: contents;
+}
+
+.footer-wrapper {
+  display: contents;
+}
+ 
+.footer-container1 {
+  display: contents;
+}
+ 
+.footer-thq-footer-logo-link-elm {
+  width: 353px;
+}
+ 
+.footer-container2 {
+  flex: 0 0 auto;
+  width: 100%;
+  height: 38px;
+  display: flex;
+  align-items: flex-start;
+}
+ 
+.footer-thq-footer-link-item-elm {
+  width: 386px;
+}
+ 
+.footer-container3 {
+  display: none;
+}
+ 
+.footer-container4 {
+  display: contents;
+}
+
+.home-container1 {
+  width: 100%;
+  display: block;
+  min-height: 100vh;
+}
+ 
+.home-thq-btn-elm1 {
+  background-color: #eac858;
+}
+ 
+.home-text12 {
+  fill: var(--color-on-surface);
+  color: var(--color-on-surface);
+}
+ 
+.home-thq-cta-card-elm {
+  height: 260px;
+}
+ 
+.home-thq-section-title-elm3 {
+  width: 796px;
+}
+ 
+.home-container2 {
+  display: none;
+}
+ 
+.home-container3 {
+  display: contents;
+}
+ 
+.home-container4 {
+  right: 50px;
+  border: 1px solid #ffffff5c;
+  bottom: 30px;
+  display: flex;
+  z-index: 22;
+  position: fixed;
+  box-shadow: 5px 5px 10px 0px rgba(31, 31, 31, 0.4);
+  min-height: auto;
+  align-items: center;
+  padding-top: 8px;
+  padding-left: 12px;
+  border-radius: 8px;
+  padding-right: 12px;
+  padding-bottom: 8px;
+  backdrop-filter: blur(6px);
+  background-color: rgba(41, 41, 41, 0.41);
+}
+ 
+.home-icon32 {
+  width: 24px;
+  margin-right: 4px;
+}
+ 
+.home-text33 {
+  color: white;
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 24px;
+}
+ 
+@media(max-width: 479px) {
+  .home-thq-section-title-elm3 {
+    width: 384px;
+    height: 41px;
+  }
+}
