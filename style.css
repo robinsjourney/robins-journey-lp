@@ -761,7 +761,7 @@
   padding: var(--spacing-md) var(--spacing-xl);
   max-width: var(--content-max-width);
   align-items: center;
-  justify-content: space-between;
+  justify-content: flex-start;
 }
  
 .navigation-logo-link {
@@ -776,6 +776,8 @@
   gap: var(--spacing-3xl);
   display: flex;
   align-items: center;
+  margin-left: auto;
+  justify-content: flex-start;
 }
  
 .navigation-mobile-toggle {

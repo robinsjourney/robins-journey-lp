@@ -18,6 +18,10 @@
   width: 386px;
 }
  
+.footer-thq-btn-elm {
+  text-decoration: none;
+}
+ 
 .footer-container3 {
   display: none;
 }

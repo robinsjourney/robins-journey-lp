@@ -3,14 +3,18 @@
 }
  
 .navigation-image {
-  width: 127px;
-  height: 79px;
+  width: 106px;
+  height: 71px;
   object-fit: cover;
 }
  
 .navigation-thq-section-title-elm1 {
   display: block;
   justify-items: center;
+}
+ 
+.navigation-thq-btn-elm1 {
+  text-decoration: none;
 }
  
 .navigation-container2 {
