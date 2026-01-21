@@ -1067,6 +1067,11 @@
   font-family: var(--font-family-heading);
   font-weight: var(--font-weight-heading);
   letter-spacing: -0.02em;
+   /* 追加ここから */
+  white-space: nowrap;
+  word-break: keep-all;
+  overflow-wrap: normal;
+  display: inline-block;
 }
  
 .footer-social-icon {
