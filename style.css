@@ -1720,10 +1720,10 @@
     grid-template-columns: 1fr;
   }
 }
-.footer-logo-text {
-  white-space: nowrap;
-}
-
-.footer-logo-link {
-  max-width: none;
+/* フッター会社名：強制的に改行させない */
+footer#company .footer-logo-text{
+  white-space: nowrap !important;
+  word-break: keep-all !important;
+  overflow-wrap: normal !important;
+  display: inline-block !important;
 }
